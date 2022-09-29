@@ -5,6 +5,19 @@ url click up : https://sharing.clickup.com/31565219/l/h/y39d3-85/064ec022b1ba51b
 =======
 # Proyectost
 
+
+Tema: Sistema de gestión de roles de usuarios
+
+Visión del Proyecto
+Requerimiento del negocio.
+El sistema deseado debe desarrollarse porque no se cuenta con uno que permita la administración integrada de roles para los usuarios.
+El sistema deseado debe desarrollarse porque no se cuenta con uno que permita la administración integrada de roles para los usuarios
+Debe desarrollarse para poder gestionar correctamento los roles de usuarios para trabajo , tareas grupales, roles,etc
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
 
 ## Development server
