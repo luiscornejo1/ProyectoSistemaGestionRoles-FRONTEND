@@ -8,9 +8,17 @@ url click up : https://sharing.clickup.com/31565219/l/h/y39d3-85/064ec022b1ba51b
 INTEGRANTES DE GRUPO :
 
 Agreda Gil, Segundo
+
+
 Centurion Cabrera, Adrian
+
+
 Cornejo Rodriguez, Luis
+
+
 De La Cruz Pizango, Jesus
+
+
 Sal y rosas Corthon, Guillermo Cristopher
 
 
