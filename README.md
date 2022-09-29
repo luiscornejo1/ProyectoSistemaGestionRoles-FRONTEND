@@ -5,8 +5,14 @@ url click up : https://sharing.clickup.com/31565219/l/h/y39d3-85/064ec022b1ba51b
 =======
 # Proyectost
 
+INTEGRANTES DE GRUPO :
 
-Tema: Sistema de gestión de roles de usuarios
+Agreda Gil, Segundo
+Centurion Cabrera, Adrian
+Cornejo Rodriguez, Luis
+De La Cruz Pizango, Jesus
+Sal y rosas Corthon, Guillermo Cristopher
+
 
 Visión del Proyecto
 Requerimiento del negocio.
